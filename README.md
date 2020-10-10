@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://yt3.ggpht.com/6tVBUFiSfFdWbJMis9w_oLULqodLQMcMOMWE2BK-Wp6_9drSCvDmNwXebxxmPxIdP_piy2QMZ8I=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
+  <img src="https://i.imgur.com/dY0Wlfe.png"/>
 </p>
 
 <p align="center">
