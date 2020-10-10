@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br>
 
-> "Talvez esse seja um dos nossos maiores desafios como humanidade: nos sofisticarmos ao máximo para dominarmos a nova configuração - mais tecnológica e complexa - de mundo, sem perdermos a nossa essência humana" 
+> "(...) Talvez esse seja um dos nossos maiores desafios como humanidade: nos sofisticarmos ao máximo para dominarmos a nova configuração de mundo - mais tecnológica e complexa -, sem perdermos a nossa essência humana." 
 > - Martha Gabriel
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leopq&show_icons=true&theme=react&bg_color=1C1D1F&icon_color=5E17EB&title_color=5E17EB)
