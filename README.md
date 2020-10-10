@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/colunadelmundo" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/instagram.svg" height="30px" ></a>
 </p>
 
-
 - 📱 Programming: Javascript, Typescript, NodeJS, Express, ReactJS, React Native
 - 💾 Databases: MongoDB, MySQL/MariaDB, Postgres, SQL Server
 - 🆙 I’m currently learning: React Native, Flutter and GraphQL
@@ -40,6 +39,6 @@ Here are some ideas to get you started:
 > "The real danger is not that computers will begin to think like men, but that men will begin to think like computers." 
 > - Sydney Harris (Journalist)
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leopq&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=FFF)
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leopq&show_icons=true&theme=react&bg_color=1C1D1F&icon_color=5E17EB&title_color=5E17EB)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopq&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leopq&layout=compact)
