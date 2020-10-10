@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leopq&layout=compact)
 
-
-<img src="https://i.pinimg.com/originals/ce/d2/d0/ced2d0cc1832708a6a1ee95df0e285a1.gif" width="350" />
+<img src="https://i.imgur.com/nY5h9tO.gif" width="350" />
 
 > "(...) Talvez esse seja um dos nossos maiores desafios como humanidade: nos sofisticarmos ao máximo para dominarmos a nova configuração de mundo - mais tecnológica e complexa -, sem perdermos a nossa essência humana." 
 > - Martha Gabriel
