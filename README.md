@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/colunadelmundo" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/instagram.svg" height="30px" ></a>
 </p>
 
-- 📱 Programming: Javascript, Typescript, NodeJS, Express, ReactJS, React Native
-- 💾 Databases: MongoDB, MySQL/MariaDB, Postgres, SQL Server
-- 🆙 I’m currently learning: React Native, Flutter and GraphQL
-- ⚙️ Others techs: Devops (Bash Scripts, Environments, Staging), Audio Based Apps, .
-- 👯 I'm looking to make meaningful connections and help build the next generation of digital experiences.
-- 🤔 I'm looking for help to make a positive impact with technology - acting locally, thinking globally
-- 💡 Facts about me: I love to write music, poems, thoughts, code and athything that helps me enlarge my world views
-- 🎓 Undergraduate student: Systems Analysis and Development
+- 📱  Programming: Javascript, Typescript, NodeJS, Express, ReactJS, React Native
+- 💾  Databases: MongoDB, MySQL/MariaDB, Postgres, SQL Server
+- 🆙  I’m currently learning: React Native, Flutter and GraphQL
+- ⚙️   Others techs: Devops (Bash Scripts, Environments, Staging), Audio Based Apps, .
+- 👯  I'm looking to make meaningful connections and help build the next generation of digital experiences.
+- 🤔  I'm looking for help to make a positive impact with technology - acting locally, thinking globally
+- 💡  Facts about me: I love to write music, poems, thoughts, code and athything that helps me enlarge my world views
+- 🎓  Undergraduate student: Systems Analysis and Development
 
 <br>
 
