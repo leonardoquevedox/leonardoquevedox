@@ -36,9 +36,12 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--- 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leopq&show_icons=true&theme=react&bg_color=1C1D1F&icon_color=5E17EB&title_color=5E17EB)
-
+-->
+<!--- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leopq&layout=compact)
+-->
 
 <img src="https://i.imgur.com/nY5h9tO.gif" width="350" />
 
