@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leonardoquevedo" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/linkedin.svg" height="30px" ></a>
-<a href="https://www.facebook.com/colunadelmundo" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/facebook.svg" height="30px" ></a>
+<a href="https://www.linkedin.com/in/leonardoquevedox" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/linkedin.svg" height="30px" ></a>
+<a href="https://www.facebook.com/leonardoquevedox" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/facebook.svg" height="30px" ></a>
 <a href="https://twitter.com/leopq" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/twitter.svg" height="30px" ></a>
 <a href="mailto:lpachecoquevedo@gmail.com?Subject=Contato&body=Ola%20Leo" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/gmail.svg" height="30px" ></a>
-<a href="https://www.instagram.com/colunadelmundo" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/instagram.svg" height="30px" ></a>
+<a href="https://www.instagram.com/leonardoquevedox" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/instagram.svg" height="30px" ></a>
 </p>
 
 - 📱  Programming: Javascript, Typescript, NodeJS, Express, ReactJS, React Native
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br />
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leopq&show_icons=true&theme=react&bg_color=1C1D1F&icon_color=5E17EB&title_color=5E17EB)
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leonardoquevedox&show_icons=true&theme=react&bg_color=1C1D1F&icon_color=5E17EB&title_color=5E17EB)
 
 <!--- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leopq&layout=compact)
