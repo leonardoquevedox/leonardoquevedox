@@ -17,13 +17,13 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/dY0Wlfe.png"/>
 </p>
 
-<p align="center">
+<!--  <p align="center">
 <a href="https://www.linkedin.com/in/leonardoquevedox" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/linkedin.svg" height="30px" ></a>
 <a href="https://www.facebook.com/leonardoquevedox" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/facebook.svg" height="30px" ></a>
 <a href="https://twitter.com/leopq" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/twitter.svg" height="30px" ></a>
 <a href="mailto:lpachecoquevedo@gmail.com?Subject=Contato&body=Ola%20Leo" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/gmail.svg" height="30px" ></a>
 <a href="https://www.instagram.com/leonardoquevedox" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/instagram.svg" height="30px" ></a>
-</p>
+</p> -->
 
 - 📱  Programming: Javascript, Typescript, NodeJS, Express, ReactJS, React Native
 - 💾  Databases: MongoDB, MySQL/MariaDB, Postgres, SQL Server
