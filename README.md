@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://i.imgur.com/dY0Wlfe.png"/>
-</p>
-
 <!--  <p align="center">
 <a href="https://www.linkedin.com/in/leonardoquevedox" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/linkedin.svg" height="30px" ></a>
 <a href="https://www.facebook.com/leonardoquevedox" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/facebook.svg" height="30px" ></a>
