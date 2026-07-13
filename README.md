@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 🌱 "(...) Talvez esse seja um dos nossos maiores desafios como humanidade: Nos sofisticarmos ao máximo para dominarmos a nova configuração de mundo - mais tecnológica e complexa -, sem perdermos a nossa essência humana."
 
-Você, eu e os robôs (Martha Gabriel, 2018)
+Você, eu e os robôs (Martha Gabriel)
 
 <br />
