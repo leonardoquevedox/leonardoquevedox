@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/nY5h9tO.gif" width="350" />
 -->
 
-"(...) Talvez esse seja um dos nossos maiores desafios como humanidade: nos sofisticarmos ao máximo para dominarmos a nova configuração de mundo - mais tecnológica e complexa -, sem perdermos a nossa essência humana."
+"(...) Talvez esse seja um dos nossos maiores desafios como humanidade: Nos sofisticarmos ao máximo para dominarmos a nova configuração de mundo - mais tecnológica e complexa -, sem perdermos a nossa essência humana."
 
 Você, eu e os robôs (Martha Gabriel, 2018)
 
